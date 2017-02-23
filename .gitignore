@@ -1,0 +1,8 @@
+build/
+opencv_test.kdev4
+Data/Result/a360.avi
+Data/Result/a544.avi
+Data/TestVideo/a360.avi
+*.cpp~
+*.h~
+*.txt~
